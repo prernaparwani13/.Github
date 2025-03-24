@@ -1,6 +1,6 @@
 # animated-octo-couscous
 <h1 align="center">Hi 👋My name is Prerna Parwani and I'm a Passionate Java Developer from India</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+
 
 - 🌱 I’m currently learning **Spring Boot**
 
