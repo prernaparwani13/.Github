@@ -1,4 +1,4 @@
-.Github
+.github
 <h1 align="center">Hi 👋My name is Prerna Parwani and I'm a Passionate Java Developer from India</h1>
 
 
